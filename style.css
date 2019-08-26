@@ -1,0 +1,18 @@
+.header
+{
+	border-style:solid;
+	text-align:center;
+}
+.header3
+{
+	text-align:center;
+}
+.FirstDiv
+{
+	display:justify;
+	align-items:center;
+	
+	float:left;
+	
+}
+
